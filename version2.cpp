@@ -95,7 +95,7 @@ int main()
                 {
                     x=0; y=0; c.set(0); 
                     
-                    system("cls");   //for windows
+                    //system("cls");   //for windows
                     system("clear"); //for linux
                     
                 }
